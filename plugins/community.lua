@@ -17,7 +17,7 @@ return {
     opts = {
       suggestion = {
         keymap = {
-          accept = "<C-a>",
+          accept = "<D-a>",
           accept_word = false,
           accept_line = false,
           next = "<C-.>",
