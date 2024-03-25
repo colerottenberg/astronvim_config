@@ -37,4 +37,9 @@ return {
     -- setting a mapping to false will disable it
     -- ["<esc>"] = false,
   },
+  i = {
+    -- setting a mapping to nil will remove it
+    -- ["<c-j>"] = nil,
+    ["<D-d>"] = "<esc>", -- exit insert mode for MacBook Config Only
+  },
 }
