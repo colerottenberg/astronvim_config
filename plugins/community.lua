@@ -7,6 +7,8 @@ return {
   { import = "astrocommunity.colorscheme.catppuccin" },
   { import = "astrocommunity.colorscheme.dracula-nvim" },
   { import = "astrocommunity.colorscheme.tokyonight-nvim"},
+  { import = "astrocommunity.colorscheme.bamboo-nvim" },
+  { import = "astrocommunity.colorscheme.nord-nvim" },
   { -- further customize the options set by the community
     "catppuccin/nvim",
     name = "catppuccin",
